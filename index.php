@@ -5,7 +5,7 @@
 <?php
 
 // SMS1 API base URL
-$api_base_url = 'https://IP:PORT/api/service/';
+$api_base_url = 'https://SubDomain.Domain:Port/api/service/';
 
 // The API name according to SMS1.ir
 // $api_name = 'send';
