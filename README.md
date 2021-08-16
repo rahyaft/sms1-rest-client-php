@@ -1,2 +1,2 @@
-# sms1-rest-client-php
+# SMS1 PHP Client
 Sample Rest Client in PHP
